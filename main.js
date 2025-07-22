@@ -57,40 +57,6 @@ if (afterOpen && beforeClose) {
         break;
     }
 }
-  let currentSlide = 0;
-  const slides = document.getElementById('slides');
-  const totalSlides = slides.children.length;
-
-  function moveSlide(direction) {
-    currentSlide += direction;
-    if (currentSlide < 0) currentSlide = totalSlides - 1;
-    if (currentSlide >= totalSlides) currentSlide = 0;
-    slides.style.transform = `translateX(-${currentSlide * 100}%)`;
-  }
-
-  // Swipe detection
-  let startX = 0;
-  let endX = 0;
-
-  slides.addEventListener('touchstart', (e) => {
-    startX = e.touches[0].clientX;
-  });
-
-  slides.addEventListener('touchend', (e) => {
-    endX = e.changedTouches[0].clientX;
-    handleSwipe();
-  });
-
-  function handleSwipe() {
-    const deltaX = endX - startX;
-    if (Math.abs(deltaX) > 50) {
-      if (deltaX < 0) {
-        moveSlide(1); // swipe left → next
-      } else {
-        moveSlide(-1); // swipe right → prev
-      }
-    }
-  }
 
 // Update Menu with JSON data
 
@@ -158,7 +124,15 @@ fetch('menu.json')
     console.error("Error loading menu:", error);
   });
 
+// Hamburger menu toggle
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.querySelector(".menu-toggle");
+  const navLinks = document.querySelector(".nav-links");
 
+  toggle.addEventListener("click", () => {
+    navLinks.classList.toggle("active");
+  });
+});
 
 
 // Uncomment the following code block to enable testimonials and contact form functionality
