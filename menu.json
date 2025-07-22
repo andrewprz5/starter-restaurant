@@ -1,0 +1,716 @@
+[
+  {
+    "Category": "Breakfast Platters",
+    "Name": "2 Egg Platter",
+    "Description": "2 Eggs any style served with homefries and toast and a choice of Bacon, Ham, or Salchichón Tico.",
+    "Price": "$9.95",
+    "Image": ""
+  },
+  {
+    "Category": "Breakfast Platters",
+    "Name": "3 Egg Platter",
+    "Description": "3 Eggs any style served with homefries and toast and a choice of Bacon, Ham, or Salchichón Tico.",
+    "Price": "$11.95",
+    "Image": ""
+  },
+  {
+    "Category": "Breakfast Platters",
+    "Name": "Avocado Toast",
+    "Description": "",
+    "Price": "$8.95",
+    "Image": ""
+  },
+  {
+    "Category": "Breakfast Platters",
+    "Name": "Huevos Perico con Tortilla Casera y Salchichón Tico",
+    "Description": "",
+    "Price": "$12.95",
+    "Image": ""
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Tacos Ticos",
+    "Description": "3 fried chicken or beef taquitos served with cabbage salad on top & side of fries / 3 tacos de pollo or carne mechada servido con ensalada de repollo y side de papas",
+    "Price": "$10.95",
+    "Image": ""
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Vigoron",
+    "Description": "Crispy Fried Porkbelly, Cabbage Salad with Pico de Gallo, Yuca (Cassava) and Green Bananas.",
+    "Price": "$13.95",
+    "Image": ""
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Gallos de Salchichón Tico",
+    "Description": "2 Costa Rican Sausages served with homemade tortillas & topped with cabbage salad drizzled with ketchup and mayo.",
+    "Price": "$7.50",
+    "Image": ""
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Tortas de Carné Ticas",
+    "Description": "",
+    "Price": "$7.95",
+    "Image": ""
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Empanada Tica",
+    "Description": "Choice of, Beans, Cheese, Bean and Cheese, Potato, Chicken, Beef & Pinto.",
+    "Price": "$3.00",
+    "Image": ""
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Chifrijo",
+    "Description": "Rice, Black Beans, Fried Pork Belly Bites, Pico De Gallo, Guacamole and Corn Chips served as a Protein Bowl.",
+    "Price": "$12.95",
+    "Image": ""
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Picada - Small",
+    "Description": "Fried Platter served with Fried Pork Belly, Chicken Strips, Yuca (Cassava) Costa Rican Sausage and Tostones",
+    "Price": "$15.50",
+    "Image": ""
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Picada - Large",
+    "Description": "Fried Platter served with Fried Pork Belly, Chicken Strips, Yuca (Cassava) Costa Rican Sausage and Tostones",
+    "Price": "$28.95",
+    "Image": ""
+  },
+  {
+    "Category": "Appetizers",
+    "Name": "Guacamole and Chips",
+    "Description": "Mashed avocado with onions, peppers, diced tomatoes, cilantro, salt and lime juice.",
+    "Price": "$6.95",
+    "Image": ""
+  },
+  {
+    "Category": "Pasta",
+    "Name": "Pasta Primavera",
+    "Description": "w/ Grilled Chicken and Vegetables and Garlic Bread",
+    "Price": "$16.95",
+    "Image": ""
+  },
+  {
+    "Category": "Pasta",
+    "Name": "Penne Vodka",
+    "Description": "w/ Grilled Chicken and Garlic Bread",
+    "Price": "$16.95",
+    "Image": ""
+  },
+  {
+    "Category": "Costa Rican Cuisine",
+    "Name": "Gallo Pinto",
+    "Description": "Special Costa Rican Style Rice and Beans mixed, Served with Avocado, Fried Cheese, Sweet Plantains, Homemade Tortilla with Cheese and Sour Cream Choice Of No Meat and",
+    "Price": "$16.95",
+    "Image": ""
+  },
+  {
+    "Category": "Costa Rican Cuisine",
+    "Name": "Meat Option",
+    "Description": "Meat Options: Steak, Chicken, Pork Chop, Chorizo Salchichón (Costa Rican style Sausage), Beef Stew, Chicken Stew or Fish Fillet.",
+    "Price": "$4.00",
+    "Image": ""
+  },
+  {
+    "Category": "Costa Rican Cuisine",
+    "Name": "Casado",
+    "Description": "Platter served with Rice, Beans, Fried Egg, Sweet Plantains, Picadillo, Salad and a Choice of Meat.",
+    "Price": "$21.95",
+    "Image": ""
+  },
+  {
+    "Category": "Seafood",
+    "Name": "Whole Fried Red Snapper",
+    "Description": "Marinated and deep fried whole red snapper (1-2 lbs) with choice of two sides.",
+    "Price": "$28.95",
+    "Image": ""
+  },
+  {
+    "Category": "Seafood",
+    "Name": "Salmon Tropical Style",
+    "Description": "Seasoned Avocado Dressing",
+    "Price": "$24.95",
+    "Image": ""
+  },
+  {
+    "Category": "Seafood",
+    "Name": "Jumbo Shrimp, Grilled or Breaded",
+    "Description": "Grilled or Breaded",
+    "Price": "$18.95",
+    "Image": ""
+  },
+  {
+    "Category": "Seafood",
+    "Name": "Ceviche",
+    "Description": "Marinated Raw Fish in Citrus Juice",
+    "Price": "$13.95",
+    "Image": ""
+  },
+  {
+    "Category": "Seafood",
+    "Name": "Salmon",
+    "Description": "Mussels, Clams, Squid Mixed",
+    "Price": "$21.95",
+    "Image": ""
+  },
+  {
+    "Category": "Seafood",
+    "Name": "Jumbo Shrimp",
+    "Description": "Tomato Sauce or Garlic",
+    "Price": "$18.95",
+    "Image": ""
+  },
+  {
+    "Category": "Seafood",
+    "Name": "Tilapia",
+    "Description": "Fish Fillet breaded or grilled",
+    "Price": "$17.50",
+    "Image": ""
+  },
+  {
+    "Category": "Salads",
+    "Name": "Surf and Turf Salad",
+    "Description": "TomGrilled Chicken & Grilled Shrimp & Grilled Steak Salad Includes Lettuce, Tomatoes, Cucumbers, Shreaded Carrots, Avocado & Choice of Dressing and Sauce or Garlic",
+    "Price": "$24.95",
+    "Image": ""
+  },
+  {
+    "Category": "Salads",
+    "Name": "Grilled Chicken Salad",
+    "Description": "Includes Lettuce, Tomatoes, shredded Carrot, Corn, Avocado & Tucanes special dressing",
+    "Price": "$16.95",
+    "Image": ""
+  },
+  {
+    "Category": "Salads",
+    "Name": "Grilled Shrimp Salad",
+    "Description": "Grilled or Breaded Shrimp served over Lettuce, Tomatoes, Shredded Carrot, Cucumber, Onions, Avocado & Choice of Dressing",
+    "Price": "$17.95",
+    "Image": ""
+  },
+  {
+    "Category": "Salads",
+    "Name": "Chicken Caesar",
+    "Description": "",
+    "Price": "$16.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Skirt Steak/Churrasco",
+    "Description": "Signature Cut",
+    "Price": "$24.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Parrillada",
+    "Description": "Grilled Platter",
+    "Price": "$27.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Lomo Saltado",
+    "Description": "Steak Strips and Rice Side",
+    "Price": "$19.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Steak Milanese",
+    "Description": "",
+    "Price": "$18.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Grilled Pork Chop",
+    "Description": "w/ onion and pepper",
+    "Price": "$17.50",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Chicken Parmigiana",
+    "Description": "",
+    "Price": "$19.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Chicken Francese / Pechuga a la Francesca",
+    "Description": "",
+    "Price": "$19.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Mar y Tierra",
+    "Description": "Skirt Steak and Jumbo Shrimp",
+    "Price": "$24.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Saltado Mix",
+    "Description": "Beef, Chicken, and Shrimp",
+    "Price": "$27.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Grilled Steak",
+    "Description": "w/ Onions and Peppers",
+    "Price": "$18.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Steak Fajitas",
+    "Description": "",
+    "Price": "$18.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Mar y Chicken",
+    "Description": "w/ Jumbo Shrimp",
+    "Price": "$24.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Grilled Chicken Breast",
+    "Description": "",
+    "Price": "$17.95",
+    "Image": ""
+  },
+  {
+    "Category": "Meat Specialties",
+    "Name": "Fried Chicken",
+    "Description": "",
+    "Price": "$16.95",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Cassava Fried",
+    "Description": "",
+    "Price": "$4.50",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Mashed Potatoes",
+    "Description": "",
+    "Price": "$4.00",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Small Beans",
+    "Description": "",
+    "Price": "$4.00",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Tostones",
+    "Description": "",
+    "Price": "$4.50",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Huevo",
+    "Description": "",
+    "Price": "$1.50",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Large Beans",
+    "Description": "",
+    "Price": "$8.00",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Fries",
+    "Description": "",
+    "Price": "$4.00",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Rice",
+    "Description": "",
+    "Price": "$4.00",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Sweet Plantains",
+    "Description": "",
+    "Price": "$4.00",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Avocado",
+    "Description": "",
+    "Price": "$2.50",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Tortillas",
+    "Description": "",
+    "Price": "$2.00",
+    "Image": ""
+  },
+  {
+    "Category": "Sides",
+    "Name": "Queso Frito",
+    "Description": "",
+    "Price": "$1.50",
+    "Image": ""
+  },
+  {
+    "Category": "Side Salads",
+    "Name": "Beets & Potato Salad",
+    "Description": "",
+    "Price": "$4.25",
+    "Image": ""
+  },
+  {
+    "Category": "Side Salads",
+    "Name": "Cabbage Salad",
+    "Description": "",
+    "Price": "$4.25",
+    "Image": ""
+  },
+  {
+    "Category": "Side Salads",
+    "Name": "House Salad",
+    "Description": "",
+    "Price": "$4.25",
+    "Image": ""
+  },
+  {
+    "Category": "Side Salads",
+    "Name": "Pasta & Tuna Salad",
+    "Description": "",
+    "Price": "$4.25",
+    "Image": ""
+  },
+  {
+    "Category": "Sandwiches Y Burgers",
+    "Name": "Bacon Egg Cheese",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Sandwiches Y Burgers",
+    "Name": "Salchichón Egg Cheese",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Sandwiches Y Burgers",
+    "Name": "Ham Egg Cheese",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Sandwiches Y Burgers",
+    "Name": "Crispy Chicken",
+    "Description": "6 in. long roll Includes Lettuce & Tomato",
+    "Price": "$11.95",
+    "Image": ""
+  },
+  {
+    "Category": "Sandwiches Y Burgers",
+    "Name": "Grilled Chicken",
+    "Description": "6 in. long roll Includes Lettuce & Tomato",
+    "Price": "$11.95",
+    "Image": ""
+  },
+  {
+    "Category": "Sandwiches Y Burgers",
+    "Name": "Steak Sandwich",
+    "Description": "6 in. long roll Includes Onions, Lettuce & Tomato",
+    "Price": "$12.50",
+    "Image": ""
+  },
+  {
+    "Category": "Sandwiches Y Burgers",
+    "Name": "American Cheese Burger",
+    "Description": "Charburger with lettuce, tomato, american cheese ketchup, diced raw onions and sliced pickles served with a side of fries.",
+    "Price": "$14.95",
+    "Image": ""
+  },
+  {
+    "Category": "Sandwiches Y Burgers",
+    "Name": "Hamburger Deluxe",
+    "Description": "Charburger with Ham, Bacon, American Cheese, Lettuce, Tomato and Russian Dressing served with a side of fries.",
+    "Price": "$16.95",
+    "Image": ""
+  },
+  {
+    "Category": "Sandwiches Y Burgers",
+    "Name": "Gallo Pinto Burger",
+    "Description": "Costa Rican Style CharBurger with refried bean spread, avocado, Salchichon Tico charbroiled fried cheese and Salsa Lizano served with side of fries.",
+    "Price": "$16.95",
+    "Image": ""
+  },
+  {
+    "Category": "Sandwiches Y Burgers",
+    "Name": "Chipotle Cheddar Bacon Burger",
+    "Description": "Charburger, Cheddar Cheese, Bacon, Chipotle Mayo, Lettuce and Tomato served with French Fries",
+    "Price": "$14.95",
+    "Image": ""
+  },
+  {
+    "Category": "Sandwiches Y Burgers",
+    "Name": "California Chicken Burger",
+    "Description": "Grilled Chicken, Pepper Jack Cheese, Guacamole, Jalapeños, Lettuce and Tomato served with French Fries",
+    "Price": "$14.95",
+    "Image": ""
+  },
+  {
+    "Category": "Soups",
+    "Name": "Chicken Soup - Small",
+    "Description": "Costa Rican style homemade chicken soup. Includes potatoes ,yuca (cassava), carrots, corn, chayote squash chicken and other vegetables.",
+    "Price": "$8.95",
+    "Image": ""
+  },
+  {
+    "Category": "Soups",
+    "Name": "Chicken Soup - Big",
+    "Description": "Costa Rican style homemade chicken soup. Includes potatoes ,yuca (cassava), carrots, corn, chayote squash chicken and other vegetables.",
+    "Price": "$11.95",
+    "Image": ""
+  },
+  {
+    "Category": "Soups",
+    "Name": "Beef Homemade Style - Small",
+    "Description": "Typical Costa Rican Beef Broth (includes potatoes, cassava, carrots, corn, green plantains, chayote squash. This stew is full of rich vegetable flavors.",
+    "Price": "$11.95",
+    "Image": ""
+  },
+  {
+    "Category": "Soups",
+    "Name": "Beef Homemade Style - Big",
+    "Description": "Typical Costa Rican Beef Broth (includes potatoes, cassava, carrots, corn, green plantains, chayote squash. This stew is full of rich vegetable flavors.",
+    "Price": "$15.95",
+    "Image": ""
+  },
+  {
+    "Category": "Soups",
+    "Name": "Sopa Negra - Small",
+    "Description": "Black Beans Broth - Includes Boiled Egg",
+    "Price": "$8.95",
+    "Image": ""
+  },
+  {
+    "Category": "Soups",
+    "Name": "Sopa Negra - Big",
+    "Description": "Black Beans Broth - Includes Boiled Egg",
+    "Price": "$11.95",
+    "Image": ""
+  },
+  {
+    "Category": "Soups",
+    "Name": "Seafood Soup",
+    "Description": "Mixed Seafood (mussels, clams, shrimp, crab meat, fish fillet, calamari) in tomato sauce and lobster base recipe.",
+    "Price": "$16.95",
+    "Image": ""
+  },
+  {
+    "Category": "Rice Specialties",
+    "Name": "Seafood",
+    "Description": "Arroz con Marisco",
+    "Price": "$20.95",
+    "Image": ""
+  },
+  {
+    "Category": "Rice Specialties",
+    "Name": "Arroz Cantones",
+    "Description": "Special Fried Rice",
+    "Price": "$17.95",
+    "Image": ""
+  },
+  {
+    "Category": "Rice Specialties",
+    "Name": "Arroz con Pollo",
+    "Description": "Shredded Chicken and Fried Rice",
+    "Price": "$14.50",
+    "Image": ""
+  },
+  {
+    "Category": "Rice Specialties",
+    "Name": "Chaufa",
+    "Description": "Special Fried Rice",
+    "Price": "$18.95",
+    "Image": ""
+  },
+  {
+    "Category": "Rice Specialties",
+    "Name": "Shrimp Mixed Race",
+    "Description": "Special Fried Rice",
+    "Price": "$16.95",
+    "Image": ""
+  },
+  {
+    "Category": "Rice Specialties",
+    "Name": "Arroz Jardinero",
+    "Description": "",
+    "Price": "$13.50",
+    "Image": ""
+  },
+  {
+    "Category": "Smoothies",
+    "Name": "Papaya",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Smoothies",
+    "Name": "Pina Colada",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Smoothies",
+    "Name": "Strawberry Fresa",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Smoothies",
+    "Name": "Cas/Guyaba Agria",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Smoothies",
+    "Name": "Nance/Yellow Cherry",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Smoothies",
+    "Name": "Mango",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Smoothies",
+    "Name": "Guanabana",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Smoothies",
+    "Name": "Maracuya",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Smoothies",
+    "Name": "Mora",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Smoothies",
+    "Name": "Coco",
+    "Description": "",
+    "Price": "$5.95",
+    "Image": ""
+  },
+  {
+    "Category": "Coffee",
+    "Name": "Frappe",
+    "Description": "",
+    "Price": "$4.95",
+    "Image": ""
+  },
+  {
+    "Category": "Coffee",
+    "Name": "Cappuccino",
+    "Description": "",
+    "Price": "$3.25",
+    "Image": ""
+  },
+  {
+    "Category": "Coffee",
+    "Name": "Latte",
+    "Description": "",
+    "Price": "$3.25",
+    "Image": ""
+  },
+  {
+    "Category": "Coffee",
+    "Name": "Macchiato",
+    "Description": "",
+    "Price": "$3.25",
+    "Image": ""
+  },
+  {
+    "Category": "Coffee",
+    "Name": "Americano",
+    "Description": "",
+    "Price": "$2.75",
+    "Image": ""
+  },
+  {
+    "Category": "Coffee",
+    "Name": "Cocoa",
+    "Description": "",
+    "Price": "$2.75",
+    "Image": ""
+  },
+  {
+    "Category": "Coffee",
+    "Name": "Mocha",
+    "Description": "",
+    "Price": "$3.95",
+    "Image": ""
+  },
+  {
+    "Category": "Coffee",
+    "Name": "Espresso",
+    "Description": "",
+    "Price": "$2.00",
+    "Image": ""
+  },
+  {
+    "Category": "Coffee",
+    "Name": "Iced Coffee",
+    "Description": "",
+    "Price": "$3.95",
+    "Image": ""
+  }
+]
