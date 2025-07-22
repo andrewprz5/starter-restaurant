@@ -108,9 +108,12 @@ fetch('menu.json')
         const itemDiv = document.createElement('div');
         itemDiv.className = 'menu-item';
         itemDiv.innerHTML = `
-          <strong>${item.Name}</strong> - ${item.Price}<br>
-          <small>${item.Description || ''}</small>
-        `;
+  <div class="menu-header">
+    <strong class="item-name">${item.Name}</strong>
+    <span class="item-price">${item.Price}</span>
+  </div>
+  <small class="item-description">${item.Description || ''}</small>
+`;
         menuContainer.appendChild(itemDiv);
       });
     }

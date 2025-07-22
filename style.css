@@ -359,11 +359,33 @@ font-weight: bold;
   font-size: 0.95rem;
   line-height: 1.4;
 }
+.menu-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
 
+.item-name {
+  font-weight: 600;
+  color: var(--text-dark);
+}
+
+.item-price {
+  color: var(--forest-green);
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.item-description {
+  font-size: 0.95rem;
+  color: #555;
+  margin-top: 0.4rem;
+}
     
     .menu-note {
         font-size: 1rem;
-        color: var(--text-light);
+        color: var(--text-dark);
         margin-top: 2rem;
     }
 
